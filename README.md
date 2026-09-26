@@ -8,7 +8,7 @@ I'm a **B.Tech IT student** interested in software development, AI/ML, and desig
 - 🤖 Interested in **AI-powered applications & Machine Learning**
 - 🎨 Enjoy **UI/UX Design** and building intuitive interfaces
 - 🔬 Working on research in **Energy-Efficient Task Offloading for Industrial IoT**
-- 🚀 Building projects through **hackathons, open source & personal projects**
+- 🚀 Building projects through **hackathons & personal projects**
 
 ## 🌐 Connect With Me
 
@@ -21,9 +21,8 @@ I'm a **B.Tech IT student** interested in software development, AI/ML, and desig
 ## 🚀 What I'm Exploring
 
 - **AI & Machine Learning**
+- **Research**
 - **Full-Stack Development**
-- **Intelligent Automation**
-- **Industrial IoT & Edge Computing**
 - **UI/UX Design**
 
 ## 📊 GitHub Stats
