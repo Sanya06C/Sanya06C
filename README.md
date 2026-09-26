@@ -16,7 +16,7 @@ I'm a **B.Tech Information Technology student** who enjoys building software, ex
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,express,fastapi,postgres,firebase,git,github,postman,figma,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,html,css,react,nodejs,fastapi,postgres,firebase,github,postman,figma,vscode&perline=10)](https://skillicons.dev) 
 
 ## 🚀 Currently Exploring
 
@@ -29,16 +29,7 @@ I'm a **B.Tech Information Technology student** who enjoys building software, ex
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanya06C&show_icons=true&theme=dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanya06C&layout=compact&theme=dark&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanya06C&theme=dark&hide_border=true" height="180"/>
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanya06C&theme=dark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
